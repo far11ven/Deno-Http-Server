@@ -1,0 +1,1 @@
+web: deno index.ts
