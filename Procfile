@@ -1,1 +1,1 @@
-web: deno -A --allow-net=:8080 index.ts
+web: deno -A --allow-net=:5000 index.ts
